@@ -1,0 +1,8 @@
+1234, Lalaloopsy Dolls, 50, 40, 24.99
+2345, Disney Infinity Starter Pack, 10, 15, 69.99
+3456, Skylanders Starter Pack, 5, 5, 75.99
+4567, Monopoly: Zapped Edition, 10, 8, 29.99
+5678, Yoomi,      7, 12, 19.99
+7890, Parcheesi, 6, 8, 11.00
+8901, Chinese Checkers, 11, 15, 12.88
+28381, Nintendo DS, 201, 203, 205.99

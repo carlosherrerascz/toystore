@@ -1,0 +1,13 @@
+C:\Users\tatsu\VisualBasicProjects\frmJugueteriaFINAL_v2\frmToyStore\bin\Debug\frmJugueteria.exe.config
+C:\Users\tatsu\VisualBasicProjects\frmJugueteriaFINAL_v2\frmToyStore\bin\Debug\frmJugueteria.exe
+C:\Users\tatsu\VisualBasicProjects\frmJugueteriaFINAL_v2\frmToyStore\bin\Debug\frmJugueteria.pdb
+C:\Users\tatsu\VisualBasicProjects\frmJugueteriaFINAL_v2\frmToyStore\bin\Debug\frmJugueteria.xml
+C:\Users\tatsu\VisualBasicProjects\frmJugueteriaFINAL_v2\frmToyStore\obj\Debug\frmJugueteria.frmInventory.resources
+C:\Users\tatsu\VisualBasicProjects\frmJugueteriaFINAL_v2\frmToyStore\obj\Debug\frmJugueteria.frmSplash.resources
+C:\Users\tatsu\VisualBasicProjects\frmJugueteriaFINAL_v2\frmToyStore\obj\Debug\frmJugueteria.frmAddProduct.resources
+C:\Users\tatsu\VisualBasicProjects\frmJugueteriaFINAL_v2\frmToyStore\obj\Debug\frmJugueteria.frmListInventory.resources
+C:\Users\tatsu\VisualBasicProjects\frmJugueteriaFINAL_v2\frmToyStore\obj\Debug\frmJugueteria.Resources.resources
+C:\Users\tatsu\VisualBasicProjects\frmJugueteriaFINAL_v2\frmToyStore\obj\Debug\frmToyStore.vbproj.GenerateResource.Cache
+C:\Users\tatsu\VisualBasicProjects\frmJugueteriaFINAL_v2\frmToyStore\obj\Debug\frmJugueteria.exe
+C:\Users\tatsu\VisualBasicProjects\frmJugueteriaFINAL_v2\frmToyStore\obj\Debug\frmJugueteria.xml
+C:\Users\tatsu\VisualBasicProjects\frmJugueteriaFINAL_v2\frmToyStore\obj\Debug\frmJugueteria.pdb

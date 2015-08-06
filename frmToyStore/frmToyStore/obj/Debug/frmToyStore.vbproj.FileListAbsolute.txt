@@ -1,0 +1,14 @@
+c:\users\tatsu\documents\visual studio 2013\Projects\frmJugueteria\frmJugueteria\bin\Debug\frmJugueteria.exe.config
+c:\users\tatsu\documents\visual studio 2013\Projects\frmJugueteria\frmJugueteria\bin\Debug\frmJugueteria.exe
+c:\users\tatsu\documents\visual studio 2013\Projects\frmJugueteria\frmJugueteria\bin\Debug\frmJugueteria.pdb
+c:\users\tatsu\documents\visual studio 2013\Projects\frmJugueteria\frmJugueteria\bin\Debug\frmJugueteria.xml
+c:\users\tatsu\documents\visual studio 2013\Projects\frmJugueteria\frmJugueteria\obj\Debug\frmJugueteria.Resources.resources
+c:\users\tatsu\documents\visual studio 2013\Projects\frmJugueteria\frmJugueteria\obj\Debug\frmJugueteria.vbproj.GenerateResource.Cache
+c:\users\tatsu\documents\visual studio 2013\Projects\frmJugueteria\frmJugueteria\obj\Debug\frmJugueteria.exe
+c:\users\tatsu\documents\visual studio 2013\Projects\frmJugueteria\frmJugueteria\obj\Debug\frmJugueteria.xml
+c:\users\tatsu\documents\visual studio 2013\Projects\frmJugueteria\frmJugueteria\obj\Debug\frmJugueteria.pdb
+c:\users\tatsu\documents\visual studio 2013\Projects\frmJugueteria\frmJugueteria\obj\Debug\frmJugueteria.frmAddProduct.resources
+C:\Users\tatsu\Documents\Visual Studio 2013\Projects\frmJugueteria\frmJugueteria\obj\Debug\frmJugueteria.vbprojResolveAssemblyReference.cache
+C:\Users\tatsu\Documents\Visual Studio 2013\Projects\frmJugueteria\frmJugueteria\obj\Debug\frmJugueteria.frmListInventory.resources
+C:\Users\tatsu\documents\visual studio 2013\Projects\frmJugueteria\frmJugueteria\obj\Debug\frmJugueteria.frmSplash.resources
+C:\Users\tatsu\documents\visual studio 2013\Projects\frmJugueteria\frmJugueteria\obj\Debug\frmJugueteria.frmInventory.resources
